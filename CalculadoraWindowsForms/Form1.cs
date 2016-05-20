@@ -15,6 +15,7 @@ namespace CalculadoraWindowsForms
         string Text;
         string number1, number2;
         bool par1 = false;
+        double[] prop = new double[3];
         int rn1, rn2;
         public Form1()
         {
@@ -192,6 +193,13 @@ namespace CalculadoraWindowsForms
             }
         }
 
+        private void button16_Click(object sender, EventArgs e)
+        {
+            prop[0] = Convert.ToDouble(prop1.Text);
+            prop[1] = Convert.ToDouble(prop2.Text);
+            prop[2] = Convert.ToDouble(prop3.Text);
+            prop4.Text = Convert.ToString((prop[1] * prop[2]) / prop[0]);
+        }
         private void button15_Click(object sender, EventArgs e)
         {
             rn1 = Convert.ToInt32(number1);

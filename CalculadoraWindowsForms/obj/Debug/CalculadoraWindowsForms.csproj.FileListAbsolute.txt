@@ -16,3 +16,12 @@ C:\Users\Ronald\Documents\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\De
 C:\Users\Ronald\Documents\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.Form1.resources
 C:\Users\Ronald\Documents\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.Properties.Resources.resources
 C:\Users\Ronald\Documents\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\bin\Debug\CalculadoraWindowsForms.exe.config
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.exe
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.pdb
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.Form1.resources
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.Properties.Resources.resources
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\obj\Debug\CalculadoraWindowsForms.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\bin\Debug\CalculadoraWindowsForms.exe
+C:\Users\usuario\Documents\GitHub\CalculadoraWindowsForms\CalculadoraWindowsForms\bin\Debug\CalculadoraWindowsForms.pdb
